@@ -1,0 +1,35 @@
+body {
+    margin: 10%;
+}
+
+.headline {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(141, 96, 88);
+    font-size: 2.5rem;
+}
+
+.headlineNew {
+    color: rgb(83, 180, 123);
+}
+
+.goals {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(126, 51, 133);
+    font-size: 1.5rem;
+    list-style: upper-roman;
+}
+
+button {
+    font-size: 1rem;
+    color: #fff;
+    background-color: tomato;
+    padding: 1%;
+    border-radius: 15px;
+    margin: 3%;
+}
+
+h2 {
+    margin: 20% 0 10%;
+    text-decoration: underline;
+}
